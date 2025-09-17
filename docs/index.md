@@ -10,13 +10,24 @@ hide:
 
 <div markdown>
 
-# Basis Wiki
+# Dateisystemarten
 
 <div class="grid cards fancy grid--cols-1" markdown >
-- [:material-call-split: **Topic 1**](content/1.md)
-- [:material-call-split: **Topic 1**](content/1.md)
-- [:material-call-split: **Topic 1**](content/1.md)
-- [:material-call-split: **Topic 1**](content/1.md)
+- [:material-call-split: **Theorie**](content/dateisysteme/dateisysteme_theorie.md)
+- [:material-call-split: **Unix Dateisystem**](content/dateisysteme/unix.md)
+- [:material-call-split: **Dateisystemvergleich**](content/dateisysteme/other.md)
+</div>
+<br>
+# Systemadministrator
+
+<div class="grid cards fancy grid--cols-1" markdown >
+- [:material-call-split: **Aufgaben eines Systemadministrator**](content/admin/admin.md)
+</div>
+<br>
+# Powershell
+
+<div class="grid cards fancy grid--cols-1" markdown >
+- [:material-call-split: **Einstieg**](content/powershell/intro.md)
 </div>
 
 </div>
@@ -25,11 +36,8 @@ hide:
 
 ![](assets/Logo_Qualidy_cmyk.svg)
 
-Hier können weitere Inhalte rein.
+<!-- [:fontawesome-solid-external-link: Externer Link mit neuen Tab](https://pictogrammers.com/library/mdi/){ target=_blank rel="noopener noreferrer" } -->
 
-[:fontawesome-solid-external-link: Externer Link mit neuen Tab](https://pictogrammers.com/library/mdi/){ target=_blank rel="noopener noreferrer" }
-
-{{ youtube_video("https://www.youtube.com/embed/chPCpYNJe_Q?si=frU_Z_VwSGnPWEPF") }}
 
 !!! tip "Schneller Navigieren"
 

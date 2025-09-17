@@ -2,7 +2,11 @@ site_name: Basis Wiki
 
 nav:
   - Übersicht: index.md
-  - Topic 1: content/1.md
+  - Theorie: content/dateisysteme/dateisysteme_theorie.md
+  - Unix Dateisystem: content/dateisysteme/unix.md
+  - Dateisystemvergleich: content/dateisysteme/other.md
+  - Aufgaben eines Systemadministrators: content/admin/admin.md
+  - Einstieg: content/powershell/intro.md
 
 
 theme:
@@ -43,6 +47,8 @@ markdown_extensions:
       generic: true
   - pymdownx.highlight:
       linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
 
 extra_css:
   - stylesheets/logo.css

@@ -21,7 +21,7 @@ hide:
 # Systemadministrator
 
 <div class="grid cards fancy grid--cols-1" markdown >
-- [:material-call-split: **Aufgaben eines Systemadministrator**](content/admin/admin.md)
+- [:material-call-split: **Aufgaben eines Systemadministrators**](content/admin/admin.md)
 </div>
 <br>
 # Powershell

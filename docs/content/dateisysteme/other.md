@@ -34,6 +34,8 @@
 | **Chained Allocation** (verkettet)          | Datei besteht aus Blöcken, die jeweils einen Zeiger auf den nächsten Block enthalten (wie eine verkettete Liste). | **FAT12/16/32** (File Allocation Table) | FAT speichert die Ketten in einer separaten Tabelle („FAT“). Vorteil: keine externe Fragmentierung, Nachteil: langsamer zufälliger Zugriff. |
 | **Indexed Allocation** (indiziert)          | Jede Datei hat eine Index-Struktur (z. B. Inode), die die Blockadressen enthält. | **UFS**, **ext2/3/4**, **NTFS**, **XFS**, **Btrfs**, **ZFS**, **APFS** | Sehr flexibel, erlaubt große Dateien, einfacher Direktzugriff. Praktisch Standard in modernen Dateisystemen. |
 
+[:fontawesome-solid-external-link: Übersicht über FAT-, HPFS- und NTFS-Dateisysteme bei Windows Client](https://learn.microsoft.com/de-de/troubleshoot/windows-client/backup-and-storage/fat-hpfs-and-ntfs-file-systems){ target=_blank rel="noopener noreferrer" }
+
 ## Praxis: Eigenes System prüfen (nur lesend)
 
 === "Windows (PowerShell)"
@@ -51,3 +53,6 @@
     diskutil list
     diskutil info /Volumes/DeinVolume
     ```
+
+---
+

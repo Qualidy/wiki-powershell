@@ -9,6 +9,7 @@ nav:
   - Aufgaben eines Systemadministrators: content/admin/admin.md
   - Powershell:
     - Einstieg: content/powershell/intro.md
+    - Tag 1: content/powershell/tag1.md
 
 
 theme:

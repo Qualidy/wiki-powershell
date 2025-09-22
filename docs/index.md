@@ -30,6 +30,7 @@ hide:
 
 <div class="grid cards fancy grid--cols-1" markdown >
 - [:material-powershell: **Einstieg**](content/powershell/intro.md)
+- [:material-powershell: **Tag 1**](content/powershell/tag1.md)
 </div>
 
 

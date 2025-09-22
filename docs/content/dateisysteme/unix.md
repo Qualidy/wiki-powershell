@@ -42,7 +42,7 @@ Für jedes Inode gilt:
 Daraus ergibt sich eine Maximale grße von Dateien: Beispiel (1 KiB Block, 32-bit Blocknummern): 
 
 $$
-12 + 256 + 256^2 + 256^3 \text{blocks} = 16843020 \text{blocks} ≈ 16 \text{GiB}
+12 + 256 + 256^2 + 256^3 \text{ blocks} = 16843020 \text{ blocks} ≈ 16 \text{ GiB}
 $$
 
 ![maximale größe](inodes_maximum.png)

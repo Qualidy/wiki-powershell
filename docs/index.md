@@ -13,22 +13,25 @@ hide:
 # Dateisystemarten
 
 <div class="grid cards fancy grid--cols-1" markdown >
-- [:material-call-split: **Theorie**](content/dateisysteme/dateisysteme_theorie.md)
-- [:material-call-split: **Unix Dateisystem**](content/dateisysteme/unix.md)
-- [:material-call-split: **Dateisystemvergleich**](content/dateisysteme/other.md)
+- [:material-school: **Theorie**](content/dateisysteme/dateisysteme_theorie.md)
+- [:material-linux: **Unix Dateisystem**](content/dateisysteme/unix.md)
+- [:material-compare: **Dateisystemvergleich**](content/dateisysteme/other.md)
 </div>
 <br>
+
 # Systemadministrator
 
 <div class="grid cards fancy grid--cols-1" markdown >
-- [:material-call-split: **Aufgaben eines Systemadministrators**](content/admin/admin.md)
+- [:material-account-cog: **Aufgaben eines Systemadministrators**](content/admin/admin.md)
 </div>
 <br>
+
 # Powershell
 
 <div class="grid cards fancy grid--cols-1" markdown >
-- [:material-call-split: **Einstieg**](content/powershell/intro.md)
+- [:material-powershell: **Einstieg**](content/powershell/intro.md)
 </div>
+
 
 </div>
 
